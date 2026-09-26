@@ -1,0 +1,36 @@
+{
+  "palavras": [
+    {
+      "id": 1,
+      "palavra": "efêmero",
+      "classe": "adjetivo",
+      "pronuncia": "/e·fê·me·ro/",
+      "definicao": "Que dura pouco tempo; passageiro, temporário.",
+      "exemplo": "Aquela oportunidade foi efêmera, mas deixou uma grande lembrança.",
+      "sinonimos": [
+        "passageiro",
+        "temporário",
+        "breve"
+      ],
+      "dificuldade": "facil",
+      "categoria": "cotidiano",
+      "ativa": true
+    },
+    {
+      "id": 2,
+      "palavra": "perspicaz",
+      "classe": "adjetivo",
+      "pronuncia": "/pers·pi·caz/",
+      "definicao": "Que possui facilidade para compreender e perceber aquilo que é difícil de notar.",
+      "exemplo": "Ela foi perspicaz ao perceber o problema antes de todos.",
+      "sinonimos": [
+        "agudo",
+        "astuto",
+        "sagaz"
+      ],
+      "dificuldade": "medio",
+      "categoria": "personalidade",
+      "ativa": true
+    }
+  ]
+}
